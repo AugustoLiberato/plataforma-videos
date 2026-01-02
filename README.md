@@ -1,4 +1,4 @@
-###Plataforma de videos
+## Plataforma de videos
 
 [Veja aqui](https://node-theta-two.vercel.app/)
 
@@ -8,7 +8,7 @@
 - Html
 - CSS
 
-### Primeiro execute o seguinte comando para instalar a dependências
+## Primeiro, no terminal, execute o seguinte comando para instalar a dependências
 npm install
 
 ## Abra dois terminais
