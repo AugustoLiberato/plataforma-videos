@@ -8,11 +8,12 @@
 - Html
 - CSS
 
-## Primeiro, no terminal, execute o seguinte comando para instalar a dependências
+## Abra dois terminais na IDE VSCode
+
+### No primeiro terminal, execute o seguinte comando para instalar a dependências
 npm install
 
-## Abra dois terminais
-### No primeiro execute 
+### Ainda no primeiro terminal execute 
 npm run api-local
 
 ### No segundo execute
